@@ -74,7 +74,6 @@ project/
 ├── knowlegegraphs/      # Ignored (confidential)
 ├── .env
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
